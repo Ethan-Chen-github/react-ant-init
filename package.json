@@ -8,8 +8,9 @@
     "@testing-library/jest-dom": "^5.9.0",
     "@testing-library/react": "^11.0.0",
     "@testing-library/user-event": "^11.1.0",
-    "antd": "^4.5.2",
+    "antd": "^4.16.7",
     "craco-less": "^1.18.0",
+    "mypackage": "^0.1.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.3"
